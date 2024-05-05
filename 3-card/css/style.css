@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.card{
+    min-width: 200px;
+    height: 150px;
+    font-family: sans-serif;
+    border: 2px solid #87ceeb;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+}
+
+.card__tital{
+    color: #00b7ff;
+    display: block;
+    background-color: #86ddff4f;
+    padding: 5px;
+}
+
+i{
+   margin-top: 30px;
+   font-size: 50px;
+   color: #00b7ff;
+   font-size: 50px;
+}
+
+.card__text{
+    color:#00b7ff;
+    margin-top: 10px;
+}
+
+.wrapper{
+    display: flex;
+}
+
+.card1{
+    min-width: 200px;
+    height: 150px;
+    font-family: sans-serif;
+    border: 2px solid #ffa500;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+}
+
+.card__tital1{
+    color:#ffa500;
+    display: block;
+    background-color: #ffa60044;
+    padding: 5px;
+}
+
+i1{
+   margin-top: 30px;
+   font-size: 50px;
+   color:#ffa500;
+   font-size: 50px;
+}
+
+.card__text1{
+    color:#ffa500;
+    margin-top: 10px;
+}
+
+.card2{
+    min-width: 200px;
+    height: 150px;
+    font-family: sans-serif;
+    border: 2px solid #ff0000;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+}
+
+.card__tital2{
+    color:#ff0000;
+    display: block;
+    background-color: #ff00003f;
+    padding: 5px;
+}
+
+i2{
+   margin-top: 30px;
+   font-size: 50px;
+   color:#ff0000;
+   font-size: 50px;
+}
+
+.card__text2{
+    color:#ff0000;
+    margin-top: 10px;
+}
